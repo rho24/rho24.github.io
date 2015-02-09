@@ -1,0 +1,7 @@
+= Test Post
+
+:hp-tags: first, blog
+
+== Introduction
+
+This is my first post
